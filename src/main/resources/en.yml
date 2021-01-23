@@ -1,0 +1,9 @@
+# MYSlots - Simple Slots Plugin
+#
+Messages:
+  FullKick: '&cThe Server is full.'
+  NoPerm: '&cYou do not have permission for this command.'
+  Slots: Slots
+  Number: Number
+  Usage: '&cUsage'
+  SetUpSlots: '&bThe Server has now &e%slots% &bslots.'

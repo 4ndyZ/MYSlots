@@ -1,0 +1,9 @@
+# MYSlots - Simple Slots Plugin
+#
+Messages:
+  FullKick: '&cEl servidor está lleno.'
+  NoPerm: '&cUsted no tiene que hacer como la autoridad.'
+  Slots: Ranuras
+  Number: Número
+  Usage: '&cUso'
+  SetUpSlots: '&bEl servidor ahora tiene &e%slots% &branuras.'

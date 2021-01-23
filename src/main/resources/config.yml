@@ -1,0 +1,11 @@
+# MYSlots - Simple Slots Plugin
+#
+# MYSlots:
+#   Enabled: true/false - Should the plugin be enabled
+#   Language: en - The name of the language file without '.yml' 
+# Slots: 20 - The number of slots for your server
+#
+MYSlots:
+  Enabled: true
+  Language: en
+Slots: 20
